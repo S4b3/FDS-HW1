@@ -22,6 +22,15 @@ Before running the notebook for the first time make sure to **install cv2** as i
 
 
 <br/>
+
+## Resources
+
+- [**COIL - 100** Columbia Object Image Library](https://www.cs.columbia.edu/CAVE/software/softlib/coil-100.php)
+  
+  
+
+<br>
+<br>
 <img src="https://user-images.githubusercontent.com/50860347/135899989-34c51922-bee9-4396-a185-cc8f9587b0f1.png" alt="drawing" width="200"/> 
 
 
