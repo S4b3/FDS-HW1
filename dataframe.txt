@@ -14,11 +14,6 @@ Number of Bins|Metric(Distance Metric)|Accuracy|Histogram Type
 10|chi2|0.52|grayvalue
 12|chi2|0.55|grayvalue
 14|chi2|0.57|grayvalue
-6|chi2|0.54|dxdy
-8|chi2|0.53|dxdy
-10|chi2|0.57|dxdy
-12|chi2|0.60|dxdy
-14|chi2|0.57|dxdy
 6|intersect|0.76|rg
 8|intersect|0.80|rg
 10|intersect|0.70|rg
@@ -34,11 +29,6 @@ Number of Bins|Metric(Distance Metric)|Accuracy|Histogram Type
 10|intersect|0.48|grayvalue
 12|intersect|0.45|grayvalue
 14|intersect|0.48|grayvalue
-6|intersect|0.48|dxdy
-8|intersect|0.54|dxdy
-10|intersect|0.53|dxdy
-12|intersect|0.52|dxdy
-14|intersect|0.54|dxdy
 6|l2|0.65|rg
 8|l2|0.58|rg
 10|l2|0.58|rg
@@ -54,9 +44,3 @@ Number of Bins|Metric(Distance Metric)|Accuracy|Histogram Type
 10|l2|0.44|grayvalue
 12|l2|0.42|grayvalue
 14|l2|0.40|grayvalue
-6|l2|0.36|dxdy
-8|l2|0.37|dxdy
-10|l2|0.36|dxdy
-12|l2|0.34|dxdy
-14|l2|0.36|dxdy
-
